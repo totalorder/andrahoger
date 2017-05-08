@@ -1,0 +1,39 @@
+body {
+    background-color: #20204A;
+    color: #2c1263;
+    font-size: 2em;
+    font-family: Arial;
+}
+
+#text {
+    font-size: 18em;
+    color: aliceblue;
+}
+
+button {
+    color: blueviolet;
+    background-color: #a7f1f1;
+    border-style: none;
+    width: 22%;
+    padding: 24px;
+    margin: 0 12px;
+    font-size: 0.75em;
+}
+
+#allt {
+    background-color: darkcyan;
+    width: 55%;
+    margin: auto;
+    text-align: center;
+    padding: 100px 0;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+/*
+8bitar = 1byte
+1   1  1  1  1 1 1 1
+128 64 32 16 8 4 2 1 = 255
+*/

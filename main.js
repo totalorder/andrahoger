@@ -14,7 +14,6 @@ var main = function() {
 
     var gissa = function () {
         var slump = Math.random();
-        console.log(slump)
 
         if (slump < 0.5) {
             text.innerText = "<"
